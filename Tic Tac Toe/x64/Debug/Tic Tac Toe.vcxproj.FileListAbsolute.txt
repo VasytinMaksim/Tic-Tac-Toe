@@ -1,0 +1,2 @@
+C:\Users\Компьютер 9\source\repos\Tic Tac Toe\x64\Debug\Tic Tac Toe.exe
+C:\Users\Дом\Desktop\Tic Tac Toe(на курсах)\x64\Debug\Tic Tac Toe.exe
